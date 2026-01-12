@@ -1,0 +1,52 @@
+name: Weekly Snapshot
+
+on:
+  schedule:
+    # 4:20 AM Pacific Time on Sundays
+    # Note: GitHub Actions uses UTC. This is 11:20 UTC (4:20 AM PDT) or 12:20 UTC (4:20 AM PST)
+    # Using 11:20 UTC to hit 4:20 AM during PDT (March-November)
+    - cron: '20 11 * * 0'
+  workflow_dispatch:
+    inputs:
+      snapshot_date:
+        description: 'Snapshot date (YYYY-MM-DD), defaults to today'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run snapshot
+        run: |
+          if [ -n "${{ inputs.snapshot_date }}" ]; then
+            ./scripts/snapshot.sh "${{ inputs.snapshot_date }}"
+          else
+            ./scripts/snapshot.sh
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Add snapshot files (but not the dank-extract binary)
+          git add snapshots/
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          SNAPSHOT_DATE=$(readlink snapshots/us/ct/latest)
+          git commit -m "chore: snapshot ${SNAPSHOT_DATE}"
+          git push
