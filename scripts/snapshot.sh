@@ -2,25 +2,24 @@
 #
 # snapshot.sh - Take a snapshot of cannabis data using dank-extract
 #
-# Usage: ./scripts/snapshot.sh [YYYY-MM-DD]
+# Usage: ./scripts/snapshot.sh
 #
-# If no date is provided, uses today's date.
+# Snapshots are stored uncompressed (CSV/JSON) for efficient Git delta compression.
+# Only DuckDB files are compressed since they're binary.
 #
 
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
-
-# Snapshot date (default: today)
-SNAPSHOT_DATE="${1:-$(date +%Y-%m-%d)}"
+SNAPSHOT_DIR="$REPO_ROOT/snapshots/us/ct"
 
 echo "=== dank-data snapshot ==="
-echo "Date: $SNAPSHOT_DATE"
+echo "Date: $(date +%Y-%m-%d)"
 echo "Repo: $REPO_ROOT"
 echo ""
 
-# Download latest dank-extract if not present or if --download flag
+# Download latest dank-extract if not present
 download_dank_extract() {
     echo "Downloading latest dank-extract..."
 
@@ -66,20 +65,22 @@ if [ ! -x "$REPO_ROOT/dank-extract" ]; then
     download_dank_extract
 fi
 
-# Run snapshot
-echo ""
-echo "Running snapshot..."
-"$REPO_ROOT/dank-extract" --snapshot "$REPO_ROOT/snapshots" --snapshot-date "$SNAPSHOT_DATE" --verbose
+# Create snapshot directory
+mkdir -p "$SNAPSHOT_DIR"
 
-# Update latest symlink
+# Run dank-extract without compression (we'll compress DuckDB manually)
 echo ""
-echo "Updating latest symlink..."
-cd "$REPO_ROOT/snapshots/us/ct"
-rm -f latest
-ln -s "$SNAPSHOT_DATE" latest
-cd "$REPO_ROOT"
+echo "Running dank-extract..."
+"$REPO_ROOT/dank-extract" \
+    --output "$SNAPSHOT_DIR" \
+    --db "$SNAPSHOT_DIR/dank-data.duckdb" \
+    --verbose
+
+# Compress only the DuckDB file (binary, no Git delta benefit)
+echo ""
+echo "Compressing DuckDB..."
+zstd -f --rm "$SNAPSHOT_DIR/dank-data.duckdb"
 
 echo ""
 echo "=== Snapshot complete ==="
-echo "Files created in: $REPO_ROOT/snapshots/us/ct/$SNAPSHOT_DATE/"
-ls -la "$REPO_ROOT/snapshots/us/ct/$SNAPSHOT_DATE/"
+ls -la "$SNAPSHOT_DIR/"

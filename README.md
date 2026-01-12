@@ -7,7 +7,6 @@ This is the one of the data sources for [AgentDank](https://agentdank.com).  You
 The data is sourced and cleaned using [`dank-extract`](https://github.com/AgentDank/dank-extract), our CLI tool for fetching, cleaning, and exporting cannabis data.
 
  * [Snapshots](#snapshots)
- * [Latest Snapshot](#latest-snapshot)
  * [Data Cleaning](#data-cleaning)
  * [Contribution and Conduct](#contribution-and-conduct)
  * [Credits and License](#credits-and-license)
@@ -23,20 +22,38 @@ Currently the following datasets are snapshotted:
 
 ## Snapshots
 
-We have included our ["cleaned"](#data-cleaning) data snapshots of public datasets in the repository for the researcher's convenience. These may be found in the [`snapshots`](./snapshots/) directory. Due to their size, the CSV and JSON and [DuckDB](https://duckdb.org) files are compressed with [ZStandard, `.zst`](https://en.wikipedia.org/wiki/Zstd).
+Data snapshots are stored in [`snapshots/`](./snapshots/). CSV and JSON files are stored uncompressed for efficient Git delta compression. Only [DuckDB](https://duckdb.org) files are compressed with [ZStandard](https://en.wikipedia.org/wiki/Zstd) (`.zst`).
 
-Snapshots are taken **weekly** at 4:20PM Pacific via [GitHub Actions](https://github.com/AgentDank/dank-data/actions).
+Snapshots are updated **weekly** at 4:20 PM Pacific via [GitHub Actions](https://github.com/AgentDank/dank-data/actions). Git history provides access to previous snapshots.
 
-### Latest Snapshot
-
-The [`snapshots/us/ct/latest`](./snapshots/us/ct/latest) symlink always points to the most recent snapshot.
+### Download
 
 ```bash
-# Download latest DuckDB directly via symlink
-curl -LO "https://github.com/AgentDank/dank-data/raw/main/snapshots/us/ct/latest/dank-data.duckdb.zst"
-
-# Decompress
+# Download current data
+curl -LO "https://github.com/AgentDank/dank-data/raw/main/snapshots/us/ct/dank-data.duckdb.zst"
 zstd -d dank-data.duckdb.zst
+
+# Or get CSV directly (no decompression needed)
+curl -LO "https://github.com/AgentDank/dank-data/raw/main/snapshots/us/ct/us_ct_brands.csv"
+```
+
+# Or get JSON directly (no decompression needed)
+curl -LO "https://github.com/AgentDank/dank-data/raw/main/snapshots/us/ct/us_ct_brands.json"
+```
+
+### Historical Data
+
+Git history is your time machine:
+
+```bash
+git clone https://github.com/AgentDank/dank-data.git
+cd dank-data
+
+# View snapshot history
+git log --oneline -- snapshots/
+
+# Get data from a specific date
+git checkout $(git rev-list -n1 --before="2026-01-01" main) -- snapshots/
 ```
 
 ## Data Cleaning
