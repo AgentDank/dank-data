@@ -1,0 +1,332 @@
+[
+  {
+    "period_end_date": "2023-01-01T00:00:00.000",
+    "month": "January",
+    "year": "2023",
+    "fiscal_year": "FY2022-23",
+    "plant_material_tax": "298413.31",
+    "edible_products_tax": "57174.23",
+    "other_cannabis_tax": "121660.66",
+    "total_tax": "477248.20"
+  },
+  {
+    "period_end_date": "2023-02-01T00:00:00.000",
+    "month": "February",
+    "year": "2023",
+    "fiscal_year": "FY2022-23",
+    "plant_material_tax": "422458.34",
+    "edible_products_tax": "65060.45",
+    "other_cannabis_tax": "223616.48",
+    "total_tax": "711135.27"
+  },
+  {
+    "period_end_date": "2023-03-01T00:00:00.000",
+    "month": "March",
+    "year": "2023",
+    "fiscal_year": "FY2022-23",
+    "plant_material_tax": "620486.96",
+    "edible_products_tax": "102934.91",
+    "other_cannabis_tax": "301211.18",
+    "total_tax": "1024633.05"
+  },
+  {
+    "period_end_date": "2023-04-01T00:00:00.000",
+    "month": "April",
+    "year": "2023",
+    "fiscal_year": "FY2022-23",
+    "plant_material_tax": "693535.94",
+    "edible_products_tax": "115247.83",
+    "other_cannabis_tax": "307223.78",
+    "total_tax": "1116007.55"
+  },
+  {
+    "period_end_date": "2023-05-01T00:00:00.000",
+    "month": "May",
+    "year": "2023",
+    "fiscal_year": "FY2022-23",
+    "plant_material_tax": "831737.31",
+    "edible_products_tax": "126555.03",
+    "other_cannabis_tax": "366369.43",
+    "total_tax": "1324661.77"
+  },
+  {
+    "period_end_date": "2023-06-01T00:00:00.000",
+    "month": "June",
+    "year": "2023",
+    "fiscal_year": "FY2022-23",
+    "plant_material_tax": "850328.48",
+    "edible_products_tax": "148368.23",
+    "other_cannabis_tax": "391145.78",
+    "total_tax": "1389842.49"
+  },
+  {
+    "period_end_date": "2023-07-01T00:00:00.000",
+    "month": "July",
+    "year": "2023",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "887388.61",
+    "edible_products_tax": "141291.46",
+    "other_cannabis_tax": "420787.81",
+    "total_tax": "1449467.88"
+  },
+  {
+    "period_end_date": "2023-08-01T00:00:00.000",
+    "month": "August",
+    "year": "2023",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "986071.63",
+    "edible_products_tax": "157463.41",
+    "other_cannabis_tax": "431810.57",
+    "total_tax": "1575345.61"
+  },
+  {
+    "period_end_date": "2023-09-01T00:00:00.000",
+    "month": "September",
+    "year": "2023",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "998901.67",
+    "edible_products_tax": "162311.45",
+    "other_cannabis_tax": "440512.92",
+    "total_tax": "1601726.04"
+  },
+  {
+    "period_end_date": "2023-10-01T00:00:00.000",
+    "month": "October",
+    "year": "2023",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "965699.43",
+    "edible_products_tax": "165078.92",
+    "other_cannabis_tax": "468137.82",
+    "total_tax": "1598916.17"
+  },
+  {
+    "period_end_date": "2023-11-01T00:00:00.000",
+    "month": "November",
+    "year": "2023",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "897558.96",
+    "edible_products_tax": "180636.46",
+    "other_cannabis_tax": "481273.82",
+    "total_tax": "1559469.24"
+  },
+  {
+    "period_end_date": "2023-12-01T00:00:00.000",
+    "month": "December",
+    "year": "2023",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "782822.84",
+    "edible_products_tax": "236737.87",
+    "other_cannabis_tax": "578166.27",
+    "total_tax": "1597726.98"
+  },
+  {
+    "period_end_date": "2024-01-01T00:00:00.000",
+    "month": "January",
+    "year": "2024",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "753272.53",
+    "edible_products_tax": "207586.77",
+    "other_cannabis_tax": "553709.19",
+    "total_tax": "1514568.49"
+  },
+  {
+    "period_end_date": "2024-02-01T00:00:00.000",
+    "month": "February",
+    "year": "2024",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "721777.15",
+    "edible_products_tax": "200999.36",
+    "other_cannabis_tax": "520367.32",
+    "total_tax": "1443143.83"
+  },
+  {
+    "period_end_date": "2024-03-01T00:00:00.000",
+    "month": "March",
+    "year": "2024",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "769807.03",
+    "edible_products_tax": "213369.86",
+    "other_cannabis_tax": "552339.06",
+    "total_tax": "1535515.95"
+  },
+  {
+    "period_end_date": "2024-04-01T00:00:00.000",
+    "month": "April",
+    "year": "2024",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "790689.86",
+    "edible_products_tax": "220813.47",
+    "other_cannabis_tax": "556010.25",
+    "total_tax": "1567513.58"
+  },
+  {
+    "period_end_date": "2024-05-01T00:00:00.000",
+    "month": "May",
+    "year": "2024",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "838315.45",
+    "edible_products_tax": "216113.34",
+    "other_cannabis_tax": "564995.78",
+    "total_tax": "1619424.57"
+  },
+  {
+    "period_end_date": "2024-06-01T00:00:00.000",
+    "month": "June",
+    "year": "2024",
+    "fiscal_year": "FY2023-24",
+    "plant_material_tax": "804500.84",
+    "edible_products_tax": "218902.27",
+    "other_cannabis_tax": "564301.10",
+    "total_tax": "1587704.21"
+  },
+  {
+    "period_end_date": "2024-07-01T00:00:00.000",
+    "month": "July",
+    "year": "2024",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "871852.26",
+    "edible_products_tax": "233809.51",
+    "other_cannabis_tax": "602064.46",
+    "total_tax": "1707726.23"
+  },
+  {
+    "period_end_date": "2024-08-01T00:00:00.000",
+    "month": "August",
+    "year": "2024",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "945554.14",
+    "edible_products_tax": "246282.34",
+    "other_cannabis_tax": "653609.15",
+    "total_tax": "1845445.63"
+  },
+  {
+    "period_end_date": "2024-09-01T00:00:00.000",
+    "month": "September",
+    "year": "2024",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "878087",
+    "edible_products_tax": "231852",
+    "other_cannabis_tax": "602187",
+    "total_tax": "1712126"
+  },
+  {
+    "period_end_date": "2024-10-01T00:00:00.000",
+    "month": "October",
+    "year": "2024",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "880481",
+    "edible_products_tax": "246260",
+    "other_cannabis_tax": "644723",
+    "total_tax": "1771464"
+  },
+  {
+    "period_end_date": "2024-11-01T00:00:00.000",
+    "month": "November",
+    "year": "2024",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "924559",
+    "edible_products_tax": "269556",
+    "other_cannabis_tax": "648696",
+    "total_tax": "1842810"
+  },
+  {
+    "period_end_date": "2024-12-01T00:00:00.000",
+    "month": "December",
+    "year": "2024",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "965847",
+    "edible_products_tax": "296827",
+    "other_cannabis_tax": "664441",
+    "total_tax": "1927115"
+  },
+  {
+    "period_end_date": "2025-01-01T00:00:00.000",
+    "month": "January",
+    "year": "2025",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "925666",
+    "edible_products_tax": "276425",
+    "other_cannabis_tax": "609190",
+    "total_tax": "1811281"
+  },
+  {
+    "period_end_date": "2025-02-01T00:00:00.000",
+    "month": "February",
+    "year": "2025",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "885398",
+    "edible_products_tax": "249565",
+    "other_cannabis_tax": "580981",
+    "total_tax": "1715945"
+  },
+  {
+    "period_end_date": "2025-03-01T00:00:00.000",
+    "month": "March",
+    "year": "2025",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "994892",
+    "edible_products_tax": "258144",
+    "other_cannabis_tax": "663781",
+    "total_tax": "1916817"
+  },
+  {
+    "period_end_date": "2025-04-01T00:00:00.000",
+    "month": "April",
+    "year": "2025",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "1049338",
+    "edible_products_tax": "259349",
+    "other_cannabis_tax": "687704",
+    "total_tax": "1996391"
+  },
+  {
+    "period_end_date": "2025-05-01T00:00:00.000",
+    "month": "May",
+    "year": "2025",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "1147831",
+    "edible_products_tax": "274672",
+    "other_cannabis_tax": "757433",
+    "total_tax": "2179936"
+  },
+  {
+    "period_end_date": "2025-06-01T00:00:00.000",
+    "month": "June",
+    "year": "2025",
+    "fiscal_year": "FY2024-25",
+    "plant_material_tax": "1168472",
+    "edible_products_tax": "256484",
+    "other_cannabis_tax": "759928",
+    "total_tax": "2184883"
+  },
+  {
+    "period_end_date": "2025-07-01T00:00:00.000",
+    "month": "July",
+    "year": "2025",
+    "fiscal_year": "FY2025-26",
+    "plant_material_tax": "1302547",
+    "edible_products_tax": "279426",
+    "other_cannabis_tax": "832915",
+    "total_tax": "2414889"
+  },
+  {
+    "period_end_date": "2025-08-01T00:00:00.000",
+    "month": "August",
+    "year": "2025",
+    "fiscal_year": "FY2025-26",
+    "plant_material_tax": "1379410",
+    "edible_products_tax": "291842",
+    "other_cannabis_tax": "887816",
+    "total_tax": "2559069"
+  },
+  {
+    "period_end_date": "2025-09-01T00:00:00.000",
+    "month": "September",
+    "year": "2025",
+    "fiscal_year": "FY2025-26",
+    "plant_material_tax": "1363436",
+    "edible_products_tax": "275414",
+    "other_cannabis_tax": "865314",
+    "total_tax": "2504164"
+  }
+]
