@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install zstd
-        run: apt-get install -y zstd
+        run: sudo apt-get install -y zstd
 
       - name: Run snapshot
         run: ./scripts/snapshot.sh
