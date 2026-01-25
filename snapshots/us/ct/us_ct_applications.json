@@ -14,7 +14,7 @@
   {
     "application_license_number": "ACCE.0000018",
     "application_credential_status": "ACTIVE",
-    "status_reason": "FINAL REVIEW REQUIRED",
+    "status_reason": "NONE",
     "sec_review_status": "Approved",
     "initial_application_type": "DIA Cultivator",
     "how_selected": "DIA Cultivator",
@@ -45,6 +45,18 @@
     "name": "CONNECTICUT SOCIAL EQUITY, LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5865459\u0026GUID=881F4513-1F84-44AB-9BAB-A1692B4408EB"
+    }
+  },
+  {
+    "application_license_number": "ACDS.0000953",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "FRESH PERSPECTIVE CT LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6331951\u0026GUID=F8801B4B-4D3A-45E9-A82A-C8C2167F479F"
     }
   },
   {
@@ -252,6 +264,18 @@
     }
   },
   {
+    "application_license_number": "AMHF.0999999",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Did not Apply For SEC Review",
+    "initial_application_type": "",
+    "how_selected": "General Lottery",
+    "name": "TEST RECORD",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5860044\u0026GUID=3EA228BD-3F96-4D4F-892E-AF89BA9E6F13\u003cbr\u003ehttps://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5860047\u0026GUID=7D530ED3-4517-4F48-96E0-1FE2E3B71CC8"
+    }
+  },
+  {
     "application_license_number": "ACCE.0000005",
     "application_credential_status": "ACTIVE BY PROVISIONAL",
     "status_reason": "NONE",
@@ -381,18 +405,6 @@
     "name": "LEAF CT LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013616\u0026GUID=3447D8B1-22F5-4244-B122-136134D6C2B3"
-    }
-  },
-  {
-    "application_license_number": "ACDS.0000953",
-    "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "SEC Lottery",
-    "how_selected": "SEC Lottery",
-    "name": "FRESH PERSPECTIVE CT LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6331951\u0026GUID=F8801B4B-4D3A-45E9-A82A-C8C2167F479F"
     }
   },
   {
