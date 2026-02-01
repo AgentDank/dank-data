@@ -96,30 +96,6 @@
     }
   },
   {
-    "application_license_number": "ACME.0005377",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "SEC Lottery",
-    "how_selected": "SEC Lottery",
-    "name": "RAD HOLDING CORP.",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013260\u0026GUID=7B25C7A8-BFC0-4FB6-8450-1D41AA697B45"
-    }
-  },
-  {
-    "application_license_number": "ACME.0008473",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "Equity Joint Venture",
-    "how_selected": "Equity Joint Venture",
-    "name": "MCEJV LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6055229\u0026GUID=D189B784-5811-4EE9-9E16-32C212AED1AC"
-    }
-  },
-  {
     "application_license_number": "ACRE.0003185",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -417,6 +393,30 @@
     "name": "LETS GROW HARTFORD LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013136\u0026GUID=7BFEBBCF-93B1-4B26-A5FF-464AAAED1B6B"
+    }
+  },
+  {
+    "application_license_number": "ACME.0005377",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "ONLINE RENEWAL SUBMITTED",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "RAD HOLDING CORP.",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013260\u0026GUID=7B25C7A8-BFC0-4FB6-8450-1D41AA697B45"
+    }
+  },
+  {
+    "application_license_number": "ACME.0008473",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "MCEJV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6055229\u0026GUID=D189B784-5811-4EE9-9E16-32C212AED1AC"
     }
   },
   {
