@@ -60,6 +60,18 @@
     }
   },
   {
+    "application_license_number": "ACDS.0001203",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "LETS GROW HARTFORD LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013136\u0026GUID=7BFEBBCF-93B1-4B26-A5FF-464AAAED1B6B"
+    }
+  },
+  {
     "application_license_number": "ACFB.0001941",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -393,18 +405,6 @@
     "name": "LEAF CT LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013616\u0026GUID=3447D8B1-22F5-4244-B122-136134D6C2B3"
-    }
-  },
-  {
-    "application_license_number": "ACDS.0001203",
-    "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "ONLINE RENEWAL SUBMITTED",
-    "sec_review_status": "Approved",
-    "initial_application_type": "SEC Lottery",
-    "how_selected": "SEC Lottery",
-    "name": "LETS GROW HARTFORD LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013136\u0026GUID=7BFEBBCF-93B1-4B26-A5FF-464AAAED1B6B"
     }
   },
   {
