@@ -120,6 +120,18 @@
     }
   },
   {
+    "application_license_number": "ACME.0008473",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "MCEJV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6055229\u0026GUID=D189B784-5811-4EE9-9E16-32C212AED1AC"
+    }
+  },
+  {
     "application_license_number": "ACRE.0003185",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -405,18 +417,6 @@
     "name": "LEAF CT LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013616\u0026GUID=3447D8B1-22F5-4244-B122-136134D6C2B3"
-    }
-  },
-  {
-    "application_license_number": "ACME.0008473",
-    "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "Equity Joint Venture",
-    "how_selected": "Equity Joint Venture",
-    "name": "MCEJV LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6055229\u0026GUID=D189B784-5811-4EE9-9E16-32C212AED1AC"
     }
   },
   {
