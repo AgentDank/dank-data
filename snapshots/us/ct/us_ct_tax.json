@@ -338,5 +338,25 @@
     "edible_products_tax": "304750",
     "other_cannabis_tax": "949554",
     "total_tax": "2753798"
+  },
+  {
+    "period_end_date": "2025-11-01T00:00:00.000",
+    "month": "November",
+    "year": "2025",
+    "fiscal_year": "FY2025-26",
+    "plant_material_tax": "1530217",
+    "edible_products_tax": "318441",
+    "other_cannabis_tax": "966900",
+    "total_tax": "2815557"
+  },
+  {
+    "period_end_date": "2025-12-01T00:00:00.000",
+    "month": "December",
+    "year": "2025",
+    "fiscal_year": "FY2025-26",
+    "plant_material_tax": "1723587",
+    "edible_products_tax": "366868",
+    "other_cannabis_tax": "1100251",
+    "total_tax": "3190706"
   }
 ]
