@@ -36,18 +36,6 @@
     }
   },
   {
-    "application_license_number": "ACCE.0000040",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "DIA Cultivator",
-    "how_selected": "DIA Cultivator",
-    "name": "CONNECTICUT SOCIAL EQUITY, LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5865459\u0026GUID=881F4513-1F84-44AB-9BAB-A1692B4408EB"
-    }
-  },
-  {
     "application_license_number": "ACDS.0000953",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -420,6 +408,18 @@
     }
   },
   {
+    "application_license_number": "ACCE.0000040",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "DIA Cultivator",
+    "how_selected": "DIA Cultivator",
+    "name": "CONNECTICUT SOCIAL EQUITY, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5865459\u0026GUID=881F4513-1F84-44AB-9BAB-A1692B4408EB"
+    }
+  },
+  {
     "application_license_number": "ACCE.0000013",
     "application_credential_status": "PENDING",
     "status_reason": "DIVISION APPROVAL NEEDED",
@@ -438,7 +438,7 @@
     "sec_review_status": "Approved",
     "initial_application_type": "DIA Cultivator",
     "how_selected": "DIA Cultivator",
-    "name": "the yard Connecticut LLC",
+    "name": "THE YARD CONNECTICUT LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5874802\u0026GUID=4750D264-B91F-4521-B3FB-280B989865C6"
     }
