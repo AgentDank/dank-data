@@ -1,0 +1,37 @@
+[
+  {
+    "credential_type": "ACDS: ADULT-USE CANNABIS DELIVERY SERVICE",
+    "social_equity_council_lottery": "2",
+    "general_lottery": "0"
+  },
+  {
+    "credential_type": "ACFB: ADULT-USE CANNABIS FOOD AND BEVERAGE MANUFACTURER",
+    "social_equity_council_lottery": "1",
+    "general_lottery": "0"
+  },
+  {
+    "credential_type": "ACME: ADULT-USE CANNABIS MICRO-CULTIVATOR",
+    "social_equity_council_lottery": "2",
+    "general_lottery": "1"
+  },
+  {
+    "credential_type": "ACPM: ADULT-USE CANNABIS PRODUCT MANUFACTURER",
+    "social_equity_council_lottery": "1",
+    "general_lottery": "0"
+  },
+  {
+    "credential_type": "ACPP: ADULT-USE CANNABIS PRODUCT PACKAGER",
+    "social_equity_council_lottery": "1",
+    "general_lottery": "3"
+  },
+  {
+    "credential_type": "ACRE: ADULT-USE CANNABIS RETAILER",
+    "social_equity_council_lottery": "0",
+    "general_lottery": "4"
+  },
+  {
+    "credential_type": "AMHF: ADULT-USE CANNABIS MEDICAL HYBRID RETAILER",
+    "social_equity_council_lottery": "0",
+    "general_lottery": "1"
+  }
+]
