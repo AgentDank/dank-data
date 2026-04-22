@@ -17,11 +17,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
+      - name: Setup Go
+        uses: actions/setup-go@v6
+
       - name: Install zstd
         run: sudo apt-get install -y zstd
 
       - name: Run snapshot
         run: ./scripts/snapshot.sh
+
+      - name: Generate catalog
+        run: go run scripts/generate-catalog.go > snapshots/catalog.json
 
       - name: Commit and push
         run: |

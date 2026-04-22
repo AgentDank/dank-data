@@ -26,6 +26,14 @@ Data snapshots are stored in [`snapshots/`](./snapshots/). CSV and JSON files ar
 
 Snapshots are updated **weekly** at 4:20 PM Pacific via [GitHub Actions](https://github.com/AgentDank/dank-data/actions). Git history provides access to previous snapshots.
 
+### Catalog
+
+[`snapshots/catalog.json`](./snapshots/catalog.json) is the machine-readable index of all published datasets. It maps dataset identifiers to download URLs and SHA-256 checksums. Consumers such as the [`dank-mcp`](https://github.com/AgentDank/dank-mcp) server use it to discover and verify snapshots.
+
+The catalog is **generated** — do not edit it by hand. Run `go run scripts/generate-catalog.go` locally to refresh it, or let CI regenerate it automatically with each snapshot.
+
+See [`docs/catalog-spec.md`](./docs/catalog-spec.md) for the full specification (schema, version policy, and consumer expectations).
+
 ### Download
 
 ```bash
