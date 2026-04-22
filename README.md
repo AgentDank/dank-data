@@ -2,7 +2,7 @@
 
 `dank-data` is AgentDank's public dataset repository.  We take public cannabis datasets, openly clean them, and publish them for public benefit.
 
-This is the one of the data sources for [AgentDank](https://agentdank.com).  You can connect with it yourself using the [AgentDank MCP server](https://github.com/AgentDank/dank-mcp) named `dank-mcp`].
+This is one of the data sources for [AgentDank](https://agentdank.com).  You can connect to it yourself using the [AgentDank MCP server](https://github.com/AgentDank/dank-mcp) named `dank-mcp`.
 
 The data is sourced and cleaned using [`dank-extract`](https://github.com/AgentDank/dank-extract), our CLI tool for fetching, cleaning, and exporting cannabis data.
 
@@ -11,20 +11,19 @@ The data is sourced and cleaned using [`dank-extract`](https://github.com/AgentD
  * [Contribution and Conduct](#contribution-and-conduct)
  * [Credits and License](#credits-and-license)
 
+## Datasets
 
-Currently the following datasets are snapshotted:
+| Dataset | Location | README |
+|---------|----------|--------|
+| United States — Connecticut | [`snapshots/us/ct/`](./snapshots/us/ct/) | [README](./snapshots/us/ct/README.md) |
 
- * [US CT Medical Marijuana and Adult Use Cannabis Brand Registry](https://data.ct.gov/Health-and-Human-Services/Medical-Marijuana-and-Adult-Use-Cannabis-Brand-Reg/egd5-wb6r/about_data)
- * [US CT Cannabis Credentials](https://data.ct.gov/Government/Cannabis-Credential-Counts-and-Type/tjfe-s2x9/about_data)
- * [US CT Cannabis Applications](https://data.ct.gov/Government/Cannabis-Application-Status/bqby-dyzr/about_data)
- * [US CT Cannabis Weekly Sales](https://data.ct.gov/Business/Cannabis-Retail-Sales/ucaf-96h6/about_data)
- * [US CT Cannabis Tax Revenue](https://data.ct.gov/Government/Cannabis-Tax-Revenue/jey2-vq68/about_data)
+Each dataset directory has its own `README.md` describing source tables, files, and download instructions.
 
 ## Snapshots
 
-Data snapshots are stored in [`snapshots/`](./snapshots/). CSV and JSON files are stored uncompressed for efficient Git delta compression. Only [DuckDB](https://duckdb.org) files are compressed with [ZStandard](https://en.wikipedia.org/wiki/Zstd) (`.zst`).
+Data snapshots are stored in [`snapshots/`](./snapshots/), organized as `snapshots/<region>/<dataset>/`. CSV and JSON files are stored uncompressed for efficient Git delta compression. Only [DuckDB](https://duckdb.org) files are compressed with [ZStandard](https://en.wikipedia.org/wiki/Zstd) (`.zst`).
 
-Snapshots are updated **weekly** at 4:20 PM Pacific via [GitHub Actions](https://github.com/AgentDank/dank-data/actions). Git history provides access to previous snapshots.
+Snapshots are updated **weekly** via [GitHub Actions](https://github.com/AgentDank/dank-data/actions). Git history provides access to previous snapshots.
 
 ### Catalog
 
@@ -36,18 +35,11 @@ See [`docs/catalog-spec.md`](./docs/catalog-spec.md) for the full specification 
 
 ### Download
 
-```bash
-# Download current data
-curl -LO "https://github.com/AgentDank/dank-data/raw/main/snapshots/us/ct/dank-data.duckdb.zst"
-zstd -d dank-data.duckdb.zst
+See the per-dataset README for download examples. In general, a snapshot directory contains:
 
-# Or get CSV directly (no decompression needed)
-curl -LO "https://github.com/AgentDank/dank-data/raw/main/snapshots/us/ct/us_ct_brands.csv"
-```
-
-# Or get JSON directly (no decompression needed)
-curl -LO "https://github.com/AgentDank/dank-data/raw/main/snapshots/us/ct/us_ct_brands.json"
-```
+ * `dank-data.duckdb.zst` — zstd-compressed DuckDB database (decompress with `zstd -d`)
+ * `*.csv` / `*.json` — per-table exports, stored uncompressed
+ * `metadata.json` — human-readable title and description used by the catalog generator
 
 ### Historical Data
 
