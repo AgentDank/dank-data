@@ -2,846 +2,1860 @@
   {
     "town": "Andover",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Ansonia",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Ashford",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Avon",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Barkhamsted",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Beacon Falls",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Berlin",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Bethany",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Bethel",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Bethlehem",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Bloomfield",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Bolton",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Bozrah",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Branford",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Bridgeport",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Bridgewater",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Bristol",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Brookfield",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Brooklyn",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Burlington",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Canaan",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Canterbury",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Canton",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Chaplin",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Cheshire",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Chester",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Clinton",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Colchester",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Colebrook",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Columbia",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Cornwall",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Coventry",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Cromwell",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Danbury",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Darien",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Deep River",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Derby",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Durham",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Eastford",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "East Granby",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "East Haddam",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "East Hampton",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "East Hartford",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "East Haven",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "East Lyme",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Easton",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "East Windsor",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Ellington",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Enfield",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Essex",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Fairfield",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Farmington",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Franklin",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Glastonbury",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Goshen",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Granby",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Greenwich",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Griswold",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Groton",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Guilford",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Haddam",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Hamden",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Hampton",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Hartford",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Hartland",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Harwinton",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Hebron",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Kent",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Killingly",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Killingworth",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Lebanon",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Ledyard",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Lisbon",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Litchfield",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Lyme",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Madison",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Manchester",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Mansfield",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Marlborough",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Meriden",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Middlebury",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Middlefield",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Middletown",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Milford",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Monroe",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Montville",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Morris",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Naugatuck",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "New Britain",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "New Canaan",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "New Fairfield",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "New Hartford",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "New Haven",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Newington",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "New London",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "New Milford",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Newtown",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Norfolk",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "North Branford",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "North Canaan",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "North Haven",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "North Stonington",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Norwalk",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Norwich",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Old Lyme",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Old Saybrook",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Orange",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Oxford",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Plainfield",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Plainville",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Plymouth",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Pomfret",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Portland",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Preston",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Prospect",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Putnam",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Redding",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Ridgefield",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Rocky Hill",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Roxbury",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Salem",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Salisbury",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Scotland",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Seymour",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Sharon",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Shelton",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Sherman",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Simsbury",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Somers",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Southbury",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Southington",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "South Windsor",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Sprague",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Stafford",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Stamford",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Sterling",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Stonington",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Stratford",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Suffield",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Thomaston",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Thompson",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Tolland",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Torrington",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Trumbull",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Union",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Vernon",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Voluntown",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Wallingford",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Warren",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Washington",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Waterbury",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Waterford",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Watertown",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Westbrook",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "West Hartford",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "West Haven",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Weston",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Westport",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Wethersfield",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Willington",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Wilton",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Winchester",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Windham",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Windsor",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Windsor Locks",
     "state": "CT",
-    "status": "Moratorium"
+    "status": "Moratorium",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Wolcott",
     "state": "CT",
-    "status": "Prohibited"
+    "status": "Prohibited",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Woodbridge",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Woodbury",
     "state": "CT",
-    "status": "null"
+    "status": "null",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   },
   {
     "town": "Woodstock",
     "state": "CT",
-    "status": "Approved"
+    "status": "Approved",
+    "date_adopted": "",
+    "date_effective": "",
+    "notes": "",
+    "date_adopted_1": "",
+    "date_effective_1": "",
+    "notes_1": ""
   }
 ]
