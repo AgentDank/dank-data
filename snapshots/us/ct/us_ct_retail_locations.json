@@ -68,14 +68,14 @@
     "business": "SHANGRI-LA CT INC",
     "dba": "SHANGRI-LA CT INC",
     "license": "ACRE.0004665",
-    "street": "430 MAIN AVE",
+    "street": "75 CONNECTICUT AVE",
     "city": "NORWALK",
-    "zipcode": "06854",
+    "zipcode": "06850-3528",
     "location": {
       "type": "Point",
       "coordinates": [
-        -73.42594,
-        41.14778
+        -73.4253,
+        41.10647
       ]
     }
   },
@@ -148,14 +148,14 @@
     "business": "SHANGRI-LA DISPENSARY",
     "dba": "SHANGRI-LA CT INC",
     "license": "ACRE.0011824",
-    "street": "75 CONNECTICUT AVE",
-    "city": "NORWALK",
-    "zipcode": "06850-3528",
+    "street": "430 Main Avenue",
+    "city": "Norwalk",
+    "zipcode": "06851",
     "location": {
       "type": "Point",
       "coordinates": [
-        -73.4253,
-        41.10647
+        -73.42594,
+        41.14778
       ]
     }
   },
@@ -757,8 +757,8 @@
     "location": {
       "type": "Point",
       "coordinates": [
-        -72.18238,
-        41.85928
+        -72.18227,
+        41.85902
       ]
     }
   },
