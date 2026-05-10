@@ -132,18 +132,6 @@
     }
   },
   {
-    "application_license_number": "ACRE.0004289",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "SEC Lottery",
-    "how_selected": "SEC Lottery",
-    "name": "CHILLAX LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013312\u0026GUID=3EFA6BCB-C854-40BD-A789-1F8CCA2458CF"
-    }
-  },
-  {
     "application_license_number": "ACRE.0008858",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -405,6 +393,18 @@
     "name": "CONNECTICUT SOCIAL EQUITY, LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5865459\u0026GUID=881F4513-1F84-44AB-9BAB-A1692B4408EB"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0004289",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "CHILLAX LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013312\u0026GUID=3EFA6BCB-C854-40BD-A789-1F8CCA2458CF"
     }
   },
   {
