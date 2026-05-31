@@ -145,7 +145,7 @@
   },
   {
     "type": "Adult-Use Cannabis Only",
-    "business": "SHANGRI-LA DISPENSARY",
+    "business": "SHANGRI-LA CT INC",
     "dba": "SHANGRI-LA CT INC",
     "license": "ACRE.0011824",
     "street": "430 Main Avenue",
@@ -330,7 +330,7 @@
     "location": {
       "type": "Point",
       "coordinates": [
-        -72.41194,
+        -72.4119,
         41.54681
       ]
     }
@@ -378,8 +378,8 @@
     "location": {
       "type": "Point",
       "coordinates": [
-        -72.65955,
-        41.73544
+        -72.65977,
+        41.73533
       ]
     }
   },
@@ -592,8 +592,8 @@
     "location": {
       "type": "Point",
       "coordinates": [
-        -72.23605,
-        41.71904
+        -72.23598,
+        41.71898
       ]
     }
   },
@@ -941,8 +941,8 @@
     "location": {
       "type": "Point",
       "coordinates": [
-        -72.90387,
-        41.69742
+        -72.90351,
+        41.6967
       ]
     }
   },
@@ -1113,8 +1113,8 @@
     "location": {
       "type": "Point",
       "coordinates": [
-        -72.93122,
-        41.35144
+        -72.93024,
+        41.3509
       ]
     }
   },
