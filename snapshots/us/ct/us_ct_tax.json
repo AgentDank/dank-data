@@ -378,5 +378,15 @@
     "edible_products_tax": "388679",
     "other_cannabis_tax": "942087",
     "total_tax": "2885248"
+  },
+  {
+    "period_end_date": "2026-03-01T00:00:00.000",
+    "month": "March",
+    "year": "2026",
+    "fiscal_year": "FY2025-26",
+    "plant_material_tax": "1808271",
+    "edible_products_tax": "315117",
+    "other_cannabis_tax": "1064526",
+    "total_tax": "3187914"
   }
 ]
