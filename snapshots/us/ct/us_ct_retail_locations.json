@@ -42,8 +42,8 @@
     "location": {
       "type": "Point",
       "coordinates": [
-        -72.8378,
-        41.67394
+        -72.83792,
+        41.6744
       ]
     }
   },
@@ -209,24 +209,8 @@
   },
   {
     "type": "Adult-Use Cannabis Only",
-    "business": "BUDR HARTFORD HOLDING LLC",
-    "dba": "BUDR HARTFORD HOLDING LLC",
-    "license": "ACRE.0015644",
-    "street": "108 Federal Road",
-    "city": "Danbury",
-    "zipcode": "06810",
-    "location": {
-      "type": "Point",
-      "coordinates": [
-        -73.42002,
-        41.42019
-      ]
-    }
-  },
-  {
-    "type": "Adult-Use Cannabis Only",
     "business": "NUTMEG HARTFORD JV LLC",
-    "dba": "HIGHER COLLECTIVE",
+    "dba": "COOKIES X THE GOODS",
     "license": "ACRE.0015652",
     "street": "1396 Park Street",
     "city": "Hartford",
@@ -476,6 +460,22 @@
       "coordinates": [
         -72.65214,
         41.67842
+      ]
+    }
+  },
+  {
+    "type": "Adult-Use Cannabis Only",
+    "business": "C3 EJV I LLC",
+    "dba": "HIGH PROFILE CANNABIS SHOP",
+    "license": "ACRE.0015705",
+    "street": "185 Spencer St.",
+    "city": "Manchester",
+    "zipcode": "06040",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -72.56875,
+        41.76731
       ]
     }
   },
@@ -776,8 +776,8 @@
     "location": {
       "type": "Point",
       "coordinates": [
-        -72.5826,
-        41.99727
+        -72.58344,
+        41.9979
       ]
     }
   },
@@ -1227,6 +1227,22 @@
       "coordinates": [
         -72.71582,
         41.76005
+      ]
+    }
+  },
+  {
+    "type": "Hybrid Retailer",
+    "business": "BUDR HARTFORD HOLDING LLC",
+    "dba": "BUDR HARTFORD HOLDING LLC",
+    "license": "AMHF.0008296",
+    "street": "108 Federal Road",
+    "city": "Danbury",
+    "zipcode": "06810",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -73.42002,
+        41.42019
       ]
     }
   },
