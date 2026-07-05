@@ -180,6 +180,18 @@
     }
   },
   {
+    "application_license_number": "ACRE.0013138",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "SLAP ASH RETAIL I LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013361\u0026GUID=510CA9B2-DB1B-4C25-8F75-7A3683F76B06"
+    }
+  },
+  {
     "application_license_number": "ACRE.0014925",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -237,6 +249,18 @@
     "name": "TY'S DISPENSARY LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8018914\u0026GUID=9D3D6A69-16FF-46ED-8F9C-A237192CA8C2"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0999999",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Did not Apply For SEC Review",
+    "initial_application_type": "",
+    "how_selected": "General Lottery",
+    "name": "TEST RECORD",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5860044\u0026GUID=3EA228BD-3F96-4D4F-892E-AF89BA9E6F13\u003cbr\u003ehttps://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5860047\u0026GUID=7D530ED3-4517-4F48-96E0-1FE2E3B71CC8"
     }
   },
   {
@@ -381,18 +405,6 @@
     "name": "CHILLAX LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013312\u0026GUID=3EFA6BCB-C854-40BD-A789-1F8CCA2458CF"
-    }
-  },
-  {
-    "application_license_number": "ACRE.0013138",
-    "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "SEC Lottery",
-    "how_selected": "SEC Lottery",
-    "name": "SLAP ASH RETAIL I LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013361\u0026GUID=510CA9B2-DB1B-4C25-8F75-7A3683F76B06"
     }
   },
   {
