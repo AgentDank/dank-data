@@ -39,7 +39,7 @@
     "application_license_number": "ACCE.0000040",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
-    "sec_review_status": "Approved",
+    "sec_review_status": "Approved - Full Fee Required",
     "initial_application_type": "DIA Cultivator",
     "how_selected": "DIA Cultivator",
     "name": "CONNECTICUT SOCIAL EQUITY, LLC",
@@ -144,6 +144,18 @@
     }
   },
   {
+    "application_license_number": "ACRE.0004289",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "CHILLAX LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013312\u0026GUID=3EFA6BCB-C854-40BD-A789-1F8CCA2458CF"
+    }
+  },
+  {
     "application_license_number": "ACRE.0008858",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -153,18 +165,6 @@
     "name": "JANANII LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6028348\u0026GUID=96A1471A-A0DE-42E8-8C49-2B0384C3CC54"
-    }
-  },
-  {
-    "application_license_number": "ACRE.0008896",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "SEC Lottery",
-    "how_selected": "SEC Lottery",
-    "name": "DIVINE 1 LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013327\u0026GUID=1F04A39B-7365-4B7C-AF49-9CD6931693E2"
     }
   },
   {
@@ -225,18 +225,6 @@
     "name": "Nutmeg Hamden JV LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058272\u0026GUID=0D8EC09E-3174-4583-9D88-E363FD85F143"
-    }
-  },
-  {
-    "application_license_number": "ACRE.0015654",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "Equity Joint Venture",
-    "how_selected": "Equity Joint Venture",
-    "name": "NUTMEG SOUTHWEST JV LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058275\u0026GUID=5750EEC4-1DCB-4C0C-93F7-6A9E9FCB7F50"
     }
   },
   {
@@ -396,15 +384,27 @@
     }
   },
   {
-    "application_license_number": "ACRE.0004289",
+    "application_license_number": "ACRE.0008896",
     "application_credential_status": "ACTIVE IN RENEWAL",
     "status_reason": "NONE",
     "sec_review_status": "Approved",
     "initial_application_type": "SEC Lottery",
     "how_selected": "SEC Lottery",
-    "name": "CHILLAX LLC",
+    "name": "DIVINE 1 LLC",
     "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013312\u0026GUID=3EFA6BCB-C854-40BD-A789-1F8CCA2458CF"
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013327\u0026GUID=1F04A39B-7365-4B7C-AF49-9CD6931693E2"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015654",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "NUTMEG SOUTHWEST JV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058275\u0026GUID=5750EEC4-1DCB-4C0C-93F7-6A9E9FCB7F50"
     }
   },
   {

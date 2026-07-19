@@ -2330,5 +2330,71 @@
     "total_products_sold": "18793",
     "adult_use_cannabis_average_product_price": "28.72",
     "medical_marijuana_average_product_price": "31.57"
+  },
+  {
+    "unnamed_column": "2026-06-06T00:00:00.000",
+    "adult_use": "3979707.81",
+    "medical": "1229908.37",
+    "total": "5209616.18",
+    "adult_use_products_sold": "138417",
+    "medical_products_sold": "39962",
+    "total_products_sold": "178379",
+    "adult_use_cannabis_average_product_price": "28.80",
+    "medical_marijuana_average_product_price": "30.97"
+  },
+  {
+    "unnamed_column": "2026-06-13T00:00:00.000",
+    "adult_use": "4406137.60",
+    "medical": "1241741.34",
+    "total": "5647878.94",
+    "adult_use_products_sold": "153841",
+    "medical_products_sold": "40120",
+    "total_products_sold": "193961",
+    "adult_use_cannabis_average_product_price": "28.66",
+    "medical_marijuana_average_product_price": "30.91"
+  },
+  {
+    "unnamed_column": "2026-06-20T00:00:00.000",
+    "adult_use": "4528845.73",
+    "medical": "1296714.53",
+    "total": "5825560.26",
+    "adult_use_products_sold": "158545",
+    "medical_products_sold": "40669",
+    "total_products_sold": "199214",
+    "adult_use_cannabis_average_product_price": "31.10",
+    "medical_marijuana_average_product_price": "31.88"
+  },
+  {
+    "unnamed_column": "2026-06-27T00:00:00.000",
+    "adult_use": "4444280.15",
+    "medical": "1212941.98",
+    "total": "5657222.13",
+    "adult_use_products_sold": "157309",
+    "medical_products_sold": "38369",
+    "total_products_sold": "195678",
+    "adult_use_cannabis_average_product_price": "28.26",
+    "medical_marijuana_average_product_price": "31.62"
+  },
+  {
+    "unnamed_column": "2026-06-30T00:00:00.000",
+    "adult_use": "1705863.60",
+    "medical": "609723.35",
+    "total": "2315586.95",
+    "adult_use_products_sold": "61512",
+    "medical_products_sold": "19648",
+    "total_products_sold": "81160",
+    "adult_use_cannabis_average_product_price": "27.68",
+    "medical_marijuana_average_product_price": "30.98"
+  },
+  {
+    "unnamed_column": "",
+    "adult_use": "674294828.03",
+    "medical": "328311480.97",
+    "total": "1002606310.10",
+    "adult_use_products_sold": "19067402",
+    "medical_products_sold": "9387442",
+    "total_products_sold": "28468072",
+    "adult_use_cannabis_average_product_price": "",
+    "medical_marijuana_average_product_price": ""
   }
 ]
