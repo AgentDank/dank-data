@@ -17,8 +17,8 @@
   },
   {
     "type": "Adult-Use Cannabis Only",
-    "business": "SHANGRI-LA CT INC",
-    "dba": "SHANGRI-LA CT INC",
+    "business": "ALPHA CT 3 LLC",
+    "dba": "SHANGRI-LA",
     "license": "ACRE.0003185",
     "street": "53 INTERSTATE LN",
     "city": "WATERBURY",
@@ -33,8 +33,8 @@
   },
   {
     "type": "Adult-Use Cannabis Only",
-    "business": "SHANGRI-LA CT INC",
-    "dba": "SHANGRI-LA CT INC",
+    "business": "ALPHA CT 1 LLC",
+    "dba": "SHANGRI-LA",
     "license": "ACRE.0003242",
     "street": "359 NEW BRITAIN AVE",
     "city": "PLAINVILLE",
@@ -65,8 +65,8 @@
   },
   {
     "type": "Adult-Use Cannabis Only",
-    "business": "SHANGRI-LA CT INC",
-    "dba": "SHANGRI-LA CT INC",
+    "business": "ALPHA CT 3 LLC",
+    "dba": "SHANGRI-LA",
     "license": "ACRE.0004665",
     "street": "75 CONNECTICUT AVE",
     "city": "NORWALK",
@@ -1062,8 +1062,8 @@
     "location": {
       "type": "Point",
       "coordinates": [
-        -72.25315,
-        41.32201
+        -72.25317,
+        41.32202
       ]
     }
   },

@@ -132,18 +132,6 @@
     }
   },
   {
-    "application_license_number": "ACRE.0003185",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "SEC Lottery",
-    "how_selected": "SEC Lottery",
-    "name": "SHANGRI-LA CT INC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013280\u0026GUID=DC57043C-71D1-443F-AAE8-DA5AC264C539"
-    }
-  },
-  {
     "application_license_number": "ACRE.0004289",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -192,18 +180,6 @@
     }
   },
   {
-    "application_license_number": "ACRE.0014925",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "Equity Joint Venture",
-    "how_selected": "Equity Joint Venture",
-    "name": "UMN EQUITY JOINT VENTURE LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013376\u0026GUID=340C90D7-F061-4C24-8DCE-4200A86D46A9"
-    }
-  },
-  {
     "application_license_number": "ACRE.0015652",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -213,18 +189,6 @@
     "name": "NUTMEG HARTFORD JV LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058205\u0026GUID=4C6A15D9-51DC-4DA5-BC09-E4FEC8A44E1F"
-    }
-  },
-  {
-    "application_license_number": "ACRE.0015653",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "Equity Joint Venture",
-    "how_selected": "Equity Joint Venture",
-    "name": "Nutmeg Hamden JV LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058272\u0026GUID=0D8EC09E-3174-4583-9D88-E363FD85F143"
     }
   },
   {
@@ -384,6 +348,18 @@
     }
   },
   {
+    "application_license_number": "ACRE.0003185",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "ALPHA CT 3 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013280\u0026GUID=DC57043C-71D1-443F-AAE8-DA5AC264C539"
+    }
+  },
+  {
     "application_license_number": "ACRE.0008896",
     "application_credential_status": "ACTIVE IN RENEWAL",
     "status_reason": "NONE",
@@ -393,6 +369,30 @@
     "name": "DIVINE 1 LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013327\u0026GUID=1F04A39B-7365-4B7C-AF49-9CD6931693E2"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0014925",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "UMN EQUITY JOINT VENTURE LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013376\u0026GUID=340C90D7-F061-4C24-8DCE-4200A86D46A9"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015653",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "Nutmeg Hamden JV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058272\u0026GUID=0D8EC09E-3174-4583-9D88-E363FD85F143"
     }
   },
   {
