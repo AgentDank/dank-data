@@ -4,9 +4,9 @@
     "us/ct": {
       "description": "Cannabis brand registry, applications, credentials, lottery, retail locations, tax, weekly sales, and zoning.",
       "duckdb_url": "https://raw.githubusercontent.com/AgentDank/dank-data/main/snapshots/us/ct/dank-data.duckdb.zst",
-      "sha256": "38326ff41caf05fe0d3c4c708ca910cbb9a90eee88c4c5336476b793c1bf34da",
+      "sha256": "71260c631290f2930b5dbc66ecaf121c59cfbed3ce2d8c9b19f83858626c4fb4",
       "title": "United States — Connecticut",
-      "updated_at": "2026-08-09T13:18:29Z"
+      "updated_at": "2026-08-16T13:03:29Z"
     }
   }
 }
