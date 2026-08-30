@@ -132,6 +132,18 @@
     }
   },
   {
+    "application_license_number": "ACME.0008474",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "NUTMEG NEW BRITAIN JV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8867145\u0026GUID=6FA2BEDF-726D-4B45-8BB1-273D7379B32F"
+    }
+  },
+  {
     "application_license_number": "ACRE.0004289",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -153,6 +165,18 @@
     "name": "JANANII LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6028348\u0026GUID=96A1471A-A0DE-42E8-8C49-2B0384C3CC54"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0008896",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "DIVINE 1 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013327\u0026GUID=1F04A39B-7365-4B7C-AF49-9CD6931693E2"
     }
   },
   {
@@ -345,18 +369,6 @@
     "name": "ALPHA CT 3 LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013280\u0026GUID=DC57043C-71D1-443F-AAE8-DA5AC264C539"
-    }
-  },
-  {
-    "application_license_number": "ACRE.0008896",
-    "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "ONLINE RENEWAL SUBMITTED",
-    "sec_review_status": "Approved",
-    "initial_application_type": "SEC Lottery",
-    "how_selected": "SEC Lottery",
-    "name": "DIVINE 1 LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013327\u0026GUID=1F04A39B-7365-4B7C-AF49-9CD6931693E2"
     }
   },
   {
