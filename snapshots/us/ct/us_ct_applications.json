@@ -96,18 +96,6 @@
     }
   },
   {
-    "application_license_number": "ACME.0002315",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "SEC Lottery",
-    "how_selected": "SEC Lottery",
-    "name": "JANANII LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013164\u0026GUID=6A15D34D-770A-40CF-9D01-384DF4FED71B"
-    }
-  },
-  {
     "application_license_number": "ACME.0005377",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -156,18 +144,6 @@
     }
   },
   {
-    "application_license_number": "ACRE.0008858",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "SEC Lottery",
-    "how_selected": "SEC Lottery",
-    "name": "JANANII LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6028348\u0026GUID=96A1471A-A0DE-42E8-8C49-2B0384C3CC54"
-    }
-  },
-  {
     "application_license_number": "ACRE.0008896",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -180,18 +156,6 @@
     }
   },
   {
-    "application_license_number": "ACRE.0011824",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "SEC Lottery",
-    "how_selected": "SEC Lottery",
-    "name": "SHANGRI-LA CT INC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013355\u0026GUID=4AD6F459-0BA7-49DD-BCC4-4B8B7C7314AB"
-    }
-  },
-  {
     "application_license_number": "ACRE.0013138",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -201,18 +165,6 @@
     "name": "SLAP ASH RETAIL I LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013361\u0026GUID=510CA9B2-DB1B-4C25-8F75-7A3683F76B06"
-    }
-  },
-  {
-    "application_license_number": "ACRE.0015652",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "Equity Joint Venture",
-    "how_selected": "Equity Joint Venture",
-    "name": "NUTMEG HARTFORD JV LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058205\u0026GUID=4C6A15D9-51DC-4DA5-BC09-E4FEC8A44E1F"
     }
   },
   {
@@ -360,6 +312,18 @@
     }
   },
   {
+    "application_license_number": "ACME.0002315",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "JANANII LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013164\u0026GUID=6A15D34D-770A-40CF-9D01-384DF4FED71B"
+    }
+  },
+  {
     "application_license_number": "ACRE.0003185",
     "application_credential_status": "ACTIVE IN RENEWAL",
     "status_reason": "NONE",
@@ -372,6 +336,30 @@
     }
   },
   {
+    "application_license_number": "ACRE.0008858",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "JANANII LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6028348\u0026GUID=96A1471A-A0DE-42E8-8C49-2B0384C3CC54"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0011824",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "SHANGRI-LA CT INC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013355\u0026GUID=4AD6F459-0BA7-49DD-BCC4-4B8B7C7314AB"
+    }
+  },
+  {
     "application_license_number": "ACRE.0014925",
     "application_credential_status": "ACTIVE IN RENEWAL",
     "status_reason": "NONE",
@@ -381,6 +369,18 @@
     "name": "UMN EQUITY JOINT VENTURE LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013376\u0026GUID=340C90D7-F061-4C24-8DCE-4200A86D46A9"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015652",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "NUTMEG HARTFORD JV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058205\u0026GUID=4C6A15D9-51DC-4DA5-BC09-E4FEC8A44E1F"
     }
   },
   {
