@@ -273,6 +273,22 @@
   },
   {
     "type": "Adult-Use Cannabis Only",
+    "business": "NUTMEG WILLINGTON JV LLC",
+    "dba": "HIGHER COLLECTIVE",
+    "license": "ACRE.0015656",
+    "street": "11 Phelps Way",
+    "city": "Willington",
+    "zipcode": "06279",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -72.30282,
+        41.87959
+      ]
+    }
+  },
+  {
+    "type": "Adult-Use Cannabis Only",
     "business": "NUTMEG NEW LONDON JV LLC",
     "dba": "HIGHER COLLECTIVE",
     "license": "ACRE.0015657",
@@ -843,17 +859,17 @@
     "business": "CURALEAF HARTFORD INC",
     "dba": "CURALEAF HARTFORD INC",
     "license": "AMHF.0008265",
-    "street": "92 WESTON ST",
-    "city": "HARTFORD",
-    "zipcode": "06120-1510",
+    "street": "443 S BROAD ST",
+    "city": "MERIDEN",
+    "zipcode": "06450-6646",
     "website": {
       "url": "https://ct.curaleaf.com/shop/curaleaf-ct-hartford"
     },
     "location": {
       "type": "Point",
       "coordinates": [
-        -72.66265,
-        41.78681
+        -72.80704,
+        41.51048
       ]
     }
   },

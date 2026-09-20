@@ -78,7 +78,7 @@
     "sec_review_status": "Approved",
     "initial_application_type": "SEC Lottery",
     "how_selected": "SEC Lottery",
-    "name": "SHANGRI-LA CT INC",
+    "name": "SHANGRI-LA CT INC.",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6331999\u0026GUID=6C2AC754-C0C6-4B38-B2AD-3153D4CF2A59"
     }
@@ -165,6 +165,18 @@
     "name": "SLAP ASH RETAIL I LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013361\u0026GUID=510CA9B2-DB1B-4C25-8F75-7A3683F76B06"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015654",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "NUTMEG SOUTHWEST JV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058275\u0026GUID=5750EEC4-1DCB-4C0C-93F7-6A9E9FCB7F50"
     }
   },
   {
@@ -330,7 +342,7 @@
     "sec_review_status": "Approved",
     "initial_application_type": "SEC Lottery",
     "how_selected": "SEC Lottery",
-    "name": "ALPHA CT 3 LLC",
+    "name": "SHANGRI-LA CT INC.",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013280\u0026GUID=DC57043C-71D1-443F-AAE8-DA5AC264C539"
     }
@@ -354,7 +366,7 @@
     "sec_review_status": "Approved",
     "initial_application_type": "SEC Lottery",
     "how_selected": "SEC Lottery",
-    "name": "SHANGRI-LA CT INC",
+    "name": "SHANGRI-LA CT INC.",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013355\u0026GUID=4AD6F459-0BA7-49DD-BCC4-4B8B7C7314AB"
     }
@@ -393,18 +405,6 @@
     "name": "Nutmeg Hamden JV LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058272\u0026GUID=0D8EC09E-3174-4583-9D88-E363FD85F143"
-    }
-  },
-  {
-    "application_license_number": "ACRE.0015654",
-    "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "Equity Joint Venture",
-    "how_selected": "Equity Joint Venture",
-    "name": "NUTMEG SOUTHWEST JV LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058275\u0026GUID=5750EEC4-1DCB-4C0C-93F7-6A9E9FCB7F50"
     }
   },
   {
