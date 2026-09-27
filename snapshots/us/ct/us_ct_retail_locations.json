@@ -17,22 +17,6 @@
   },
   {
     "type": "Adult-Use Cannabis Only",
-    "business": "SHANGRI-LA CT INC.",
-    "dba": "SHANGRI-LA CT INC.",
-    "license": "ACRE.0003185",
-    "street": "53 INTERSTATE LN",
-    "city": "WATERBURY",
-    "zipcode": "06705-2639",
-    "location": {
-      "type": "Point",
-      "coordinates": [
-        -72.99759,
-        41.53543
-      ]
-    }
-  },
-  {
-    "type": "Adult-Use Cannabis Only",
     "business": "ALPHA CT 1 LLC",
     "dba": "SHANGRI-LA",
     "license": "ACRE.0003242",
@@ -300,22 +284,6 @@
       "coordinates": [
         -72.10283,
         41.34984
-      ]
-    }
-  },
-  {
-    "type": "Adult-Use Cannabis Only",
-    "business": "SFC CT LLC",
-    "dba": "VENU FLOWER COLLECTIVE",
-    "license": "ACRE.0015659",
-    "street": "895 Washington Street",
-    "city": "Middletown",
-    "zipcode": "06457",
-    "location": {
-      "type": "Point",
-      "coordinates": [
-        -72.68225,
-        41.5539
       ]
     }
   },
@@ -694,17 +662,17 @@
     "business": "WILLOW BROOK WELLNESS LLC",
     "dba": "ZEN LEAF MERIDEN",
     "license": "AMHF.0008254",
-    "street": "1371 E MAIN ST",
+    "street": "1387 E MAIN ST",
     "city": "MERIDEN",
-    "zipcode": "06450-4869",
+    "zipcode": "06450-4801",
     "website": {
       "url": "https://zenleafdispensaries.com"
     },
     "location": {
       "type": "Point",
       "coordinates": [
-        -72.75697,
-        41.52552
+        -72.75658,
+        41.52544
       ]
     }
   },
@@ -1259,6 +1227,38 @@
       "coordinates": [
         -73.42002,
         41.42019
+      ]
+    }
+  },
+  {
+    "type": "Hybrid Retailer",
+    "business": "SFC CT LLC",
+    "dba": "VENU FLOWER COLLECTIVE",
+    "license": "AMHF.0008300",
+    "street": "895 Washington Street",
+    "city": "Middletown",
+    "zipcode": "06457",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -72.68225,
+        41.5539
+      ]
+    }
+  },
+  {
+    "type": "Hybrid Retailer",
+    "business": "SHANGRI-LA CT INC.",
+    "dba": "SHANGRI-LA CT INC.",
+    "license": "AMHF.0008301",
+    "street": "53 INTERSTATE LN",
+    "city": "WATERBURY",
+    "zipcode": "06705-2639",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -72.99759,
+        41.53543
       ]
     }
   },
