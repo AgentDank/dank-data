@@ -1,17 +1,5 @@
 [
   {
-    "application_license_number": "ACCE.0000016",
-    "application_credential_status": "ACTIVE",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "DIA Cultivator",
-    "how_selected": "DIA Cultivator",
-    "name": "SHANGRI-LA FARMS CT CORP.",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5874779\u0026GUID=999348FE-6CBD-47ED-88BC-880B964CF476"
-    }
-  },
-  {
     "application_license_number": "ACCE.0000018",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -48,6 +36,18 @@
     }
   },
   {
+    "application_license_number": "ACDS.0000496",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "General Lottery",
+    "how_selected": "General Lottery",
+    "name": "CANNABIS CONNECTION LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8988609\u0026GUID=C9FDC630-BAC4-4FD9-9196-4D7C1A90D691"
+    }
+  },
+  {
     "application_license_number": "ACDS.0000953",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -57,6 +57,18 @@
     "name": "FRESH PERSPECTIVE CT LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6331951\u0026GUID=F8801B4B-4D3A-45E9-A82A-C8C2167F479F"
+    }
+  },
+  {
+    "application_license_number": "ACDS.0001177",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "LETS GROW HARTFORD LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8990638\u0026GUID=E01A08D3-2BDF-4D1C-AEFB-A9DE2EE4FD1A"
     }
   },
   {
@@ -72,13 +84,109 @@
     }
   },
   {
+    "application_license_number": "ACDS.0001212",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved - Full Fee Required",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "NUTMEG DELIVERY JV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8993521\u0026GUID=A521750B-1CB2-4A2B-9D14-7FE53945F155"
+    }
+  },
+  {
+    "application_license_number": "ACFB.0000056",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "General Lottery",
+    "name": "56 BENTON LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8993545\u0026GUID=98FC4DE2-E4AD-4702-ACD6-6440EBEF4784"
+    }
+  },
+  {
+    "application_license_number": "ACFB.0000359",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "General Lottery",
+    "name": "CONNECTICUT SOCIAL EQUITY, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8993567\u0026GUID=9616D87E-4823-4331-8712-58DD244E860A"
+    }
+  },
+  {
+    "application_license_number": "ACFB.0000489",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "CONNECTICUT CANNABIS COURIER I LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8993581\u0026GUID=490272F8-6F5E-45F9-A006-4F534F23C983"
+    }
+  },
+  {
+    "application_license_number": "ACFB.0000681",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "SOUNDVIEW MANUFACTURING LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994338\u0026GUID=CE77EADD-B450-40CE-9526-C095BAA35535"
+    }
+  },
+  {
+    "application_license_number": "ACFB.0000891",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "General Lottery",
+    "how_selected": "General Lottery",
+    "name": "ENLIGHTENED FOODS LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994351\u0026GUID=10C21FEA-DF2B-47D3-8C3A-BCFE157576DD"
+    }
+  },
+  {
+    "application_license_number": "ACFB.0001230",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "LETS GROW HARTFORD LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994368\u0026GUID=A8F2AA07-820A-4AA1-90CE-3BE3A4AC9B20"
+    }
+  },
+  {
+    "application_license_number": "ACFB.0001847",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "General Lottery",
+    "how_selected": "General Lottery",
+    "name": "CONNECTICUT CONTRACT MANUFACTURING LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994381\u0026GUID=F09956EA-2C9B-4643-AFD1-1E8DA14BAE38"
+    }
+  },
+  {
     "application_license_number": "ACFB.0001941",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
     "sec_review_status": "Approved",
     "initial_application_type": "SEC Lottery",
     "how_selected": "SEC Lottery",
-    "name": "SHANGRI-LA CT INC.",
+    "name": "ALPHA CT 4 LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6331999\u0026GUID=6C2AC754-C0C6-4B38-B2AD-3153D4CF2A59"
     }
@@ -93,6 +201,18 @@
     "name": "Lorrain's CT",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6332000\u0026GUID=862C9FA5-E6C4-461D-A2FC-248AB1FF9E15"
+    }
+  },
+  {
+    "application_license_number": "ACME.0003689",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "General Lottery",
+    "how_selected": "General Lottery",
+    "name": "DEBBIE'S GROW LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994403\u0026GUID=26EA215D-A07B-42BB-BA0F-0CDE691101D9"
     }
   },
   {
@@ -132,6 +252,78 @@
     }
   },
   {
+    "application_license_number": "ACME.0008482",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Conversion - DIA",
+    "how_selected": "Conversion - DIA",
+    "name": "THE GOODS THC CO.",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994420\u0026GUID=6A622C8D-603F-4864-8075-78EAFCE191D1"
+    }
+  },
+  {
+    "application_license_number": "ACPM.0000223",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "Golden Hanuman Inc.",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994582\u0026GUID=77AC8787-9969-4683-9ECF-7B3812376AA4"
+    }
+  },
+  {
+    "application_license_number": "ACPM.0000550",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "General Lottery",
+    "how_selected": "General Lottery",
+    "name": "KITE LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994918\u0026GUID=9BB48DEE-78F9-4AC6-8D74-61EF4E602108"
+    }
+  },
+  {
+    "application_license_number": "ACPM.0000671",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "General Lottery",
+    "name": "ALPHA CT 3 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8995040\u0026GUID=22F87CD5-0A04-4C7D-88F7-B4E488A07BC9"
+    }
+  },
+  {
+    "application_license_number": "ACPP.0000355",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "DUTCH LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8995462\u0026GUID=17CC0D0C-938F-4A3A-9E45-D3C9642534BC"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0002642",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "General Lottery",
+    "name": "SLAP ASH RETAIL II LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8995482\u0026GUID=79BDD259-83ED-4B71-92A5-E5665DA887AA"
+    }
+  },
+  {
     "application_license_number": "ACRE.0004289",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -165,6 +357,18 @@
     "name": "SLAP ASH RETAIL I LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013361\u0026GUID=510CA9B2-DB1B-4C25-8F75-7A3683F76B06"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0014925",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "UMN EQUITY JOINT VENTURE LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013376\u0026GUID=340C90D7-F061-4C24-8DCE-4200A86D46A9"
     }
   },
   {
@@ -312,6 +516,30 @@
     }
   },
   {
+    "application_license_number": "ACME.0008483",
+    "application_credential_status": "ACTIVE BY PROVISIONAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Conversion - DIA (Reduced Fee)",
+    "how_selected": "Conversion - DIA (Reduced Fee)",
+    "name": "elm city agg",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994470\u0026GUID=24500CD6-7C0B-4B44-9122-2F3C34DDF58F"
+    }
+  },
+  {
+    "application_license_number": "ACME.0008484",
+    "application_credential_status": "ACTIVE BY PROVISIONAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Conversion - DIA (Reduced Fee)",
+    "how_selected": "Conversion - DIA (Reduced Fee)",
+    "name": "Green Meadows Farm CT, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994487\u0026GUID=D38E71A3-90E8-4819-975B-193A7ED7DE0E"
+    }
+  },
+  {
     "application_license_number": "AMHF.0004030",
     "application_credential_status": "ACTIVE BY PROVISIONAL",
     "status_reason": "NONE",
@@ -321,6 +549,66 @@
     "name": "LEAF CT LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013616\u0026GUID=3447D8B1-22F5-4244-B122-136134D6C2B3"
+    }
+  },
+  {
+    "application_license_number": "ACCE.0000016",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "DIA Cultivator",
+    "how_selected": "DIA Cultivator",
+    "name": "SHANGRI-LA FARMS CT CORP.",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5874779\u0026GUID=999348FE-6CBD-47ED-88BC-880B964CF476"
+    }
+  },
+  {
+    "application_license_number": "ACDS.0000602",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "Green Cab Co, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8990521\u0026GUID=C666442E-D3FA-4B04-B632-53142B994777"
+    }
+  },
+  {
+    "application_license_number": "ACDS.0000918",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "General Lottery",
+    "name": "SLAP ASH DELIVERY LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8990610\u0026GUID=2CB2381D-91F0-40E9-BEFF-D7B83AB1C54B"
+    }
+  },
+  {
+    "application_license_number": "ACDS.0001062",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved - Full Fee Required",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "GREEN CAB 2 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8990529\u0026GUID=2C1FD4E4-520F-416D-A0AC-301A59208871"
+    }
+  },
+  {
+    "application_license_number": "ACDS.0001147",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "General Lottery",
+    "how_selected": "General Lottery",
+    "name": "RISE ON THE ROAD, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8990652\u0026GUID=661C1C72-589D-4491-A347-34F847FF0D79"
     }
   },
   {
@@ -354,21 +642,9 @@
     "sec_review_status": "Approved",
     "initial_application_type": "SEC Lottery",
     "how_selected": "SEC Lottery",
-    "name": "SHANGRI-LA CT INC.",
+    "name": "ALPHA CT 5 LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013355\u0026GUID=4AD6F459-0BA7-49DD-BCC4-4B8B7C7314AB"
-    }
-  },
-  {
-    "application_license_number": "ACRE.0014925",
-    "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "Equity Joint Venture",
-    "how_selected": "Equity Joint Venture",
-    "name": "UMN EQUITY JOINT VENTURE LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013376\u0026GUID=340C90D7-F061-4C24-8DCE-4200A86D46A9"
     }
   },
   {
