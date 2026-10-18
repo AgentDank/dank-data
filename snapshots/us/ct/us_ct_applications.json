@@ -324,6 +324,18 @@
     }
   },
   {
+    "application_license_number": "ACRE.0003242",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "General Lottery",
+    "name": "ALPHA CT 1 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8997938\u0026GUID=B1788AC9-00E4-46D8-8164-345FCFE3EF15"
+    }
+  },
+  {
     "application_license_number": "ACRE.0004289",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -336,6 +348,30 @@
     }
   },
   {
+    "application_license_number": "ACRE.0004665",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "General Lottery",
+    "name": "SHANGRI-LA CT INC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998001\u0026GUID=533AD7C4-C57A-4D6C-8372-9B998736D193"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0005925",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "General Lottery",
+    "how_selected": "General Lottery",
+    "name": "SARA'S DISPENSARY LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998019\u0026GUID=6849F032-0B23-404D-8B0C-21DFF5AF3510"
+    }
+  },
+  {
     "application_license_number": "ACRE.0008896",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -345,6 +381,18 @@
     "name": "DIVINE 1 LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013327\u0026GUID=1F04A39B-7365-4B7C-AF49-9CD6931693E2"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0009619",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "General Lottery",
+    "how_selected": "General Lottery",
+    "name": "DEBBIE'S DISPENSARY LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998084\u0026GUID=E2D87C3B-2CE6-4205-BF80-FA58A62225BA"
     }
   },
   {
@@ -384,6 +432,162 @@
     }
   },
   {
+    "application_license_number": "ACRE.0015678",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "Insa CT Retail II, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001524\u0026GUID=3BAA26BC-3A5D-46CC-A118-048F83D467AC"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015682",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "Insa CT Retail I, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001607\u0026GUID=45B3643A-1969-48E1-80AA-7981DC4CC538"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015686",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "CONNECTIBUDS EJV 2 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998007\u0026GUID=E29C0527-B706-439D-B928-79631FCCA0EC"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015689",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "GREEN ACRES CT ONE, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998016\u0026GUID=C27DAAB9-7E21-4FC6-8C29-B650A74B2CDE"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015694",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "C3 EJV II LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001205\u0026GUID=F17F4FE5-B38A-4299-9583-9B99E494F378"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015697",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "ACREAGE CONNECTICUT RETAIL JV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001297\u0026GUID=8261A641-3185-47DF-839B-07A28699AD23"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015704",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "Rodeo Rocky Hill LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001557\u0026GUID=2E283916-94DF-4263-A10C-EFE2F317356E"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015705",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "C3 EJV I LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001617\u0026GUID=A7EA22D4-AEF1-4E4C-93FC-8DAF3DCAF54A"
+    }
+  },
+  {
+    "application_license_number": "ACTP.0000092",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "General Lottery",
+    "name": "NMB BPT LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001212\u0026GUID=77AC3403-45DA-457F-8404-B4CAF51B446A"
+    }
+  },
+  {
+    "application_license_number": "ACTP.0000497",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "Leaf Line Logistic LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001356\u0026GUID=6196AEC2-4872-4781-A666-DFB7CFFE53F7"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0002942",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "CHILLAX LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001547\u0026GUID=DA4352DF-DDF6-4A9B-ABDE-11B4F8F23466"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0003139",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "DIVINE 1 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001574\u0026GUID=F3A2219A-7422-4751-853F-78B8AB15EF26"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0003319",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "General Lottery",
+    "name": "DIVINE 1 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001629\u0026GUID=60C48C33-FE51-4076-8155-2E2FE3B1A13F"
+    }
+  },
+  {
     "application_license_number": "AMHF.0004449",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -393,6 +597,306 @@
     "name": "MOHAVE CT, LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8018914\u0026GUID=9D3D6A69-16FF-46ED-8F9C-A237192CA8C2"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008247",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "FFD WEST LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998097\u0026GUID=7B32CE2D-D553-4892-976A-B3B679BE28D9"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008248",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "FFD CENTRAL LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001280\u0026GUID=D96E68D8-3C55-469D-87DA-ECE0C29D1FEF"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008249",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "FFD NEWINGTON LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001363\u0026GUID=C9051C8A-3A10-4F5C-B023-D7D403A1D7D2"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008250",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "BLUEPOINT APOTHECARY, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001449\u0026GUID=13551896-6CDB-44C5-8B10-2A0600D33CC5"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008251",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "CT BGP, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001531\u0026GUID=3DD0A7BA-F947-4626-A0AE-F622ABEC5169"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008254",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "WILLOW BROOK WELLNESS LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001664\u0026GUID=803C2C34-CAEC-4EF0-AC07-6A3EF66795AF"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008257",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved - Full Fee Required",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "CONNECTICUT PHARMACEUTICAL SOLUTIONS LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001706\u0026GUID=C4C95A76-A74B-4A58-B4D1-9ECC551C7CF7"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008258",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved - Full Fee Required",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "CONNECTICUT PHARMACEUTICAL SOLUTIONS LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001755\u0026GUID=13DC6E62-C7ED-41E0-91D0-5001032757FD"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008259",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "WILLOW BROOK WELLNESS LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8997977\u0026GUID=02074369-6B40-44A0-BBA2-8E72E9DB6D2A"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008260",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "WILLOW BROOK WELLNESS LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998013\u0026GUID=5D573BDF-DB57-4BEA-99FE-6F9E261845EE"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008262",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "CARING NATURE LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998067\u0026GUID=AC64C9B4-7DA6-4B1C-B343-69551B2B8087"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008263",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "TRULIEVE BRISTOL INC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001192\u0026GUID=7974CAA6-446C-4E47-953F-B5755BAE2044"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008265",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "CURALEAF HARTFORD INC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001374\u0026GUID=E39279CF-19D5-442B-9BA2-DF05A7AC05BD"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008268",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "CT BGP, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001495\u0026GUID=80E4685D-44E7-4240-8BBC-D3DEF43D39F1"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008269",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "SWEETSPOT WEST HARTFORD LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001564\u0026GUID=4069A186-A44E-4390-8428-D3EB2E5BAC41"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008272",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "CURALEAF MILFORD INC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001684\u0026GUID=714B6873-0D76-4411-8EF6-C9FF801C0BB6"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008273",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "FFD PINK EJV, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001699\u0026GUID=D13D9CF3-1A62-4BF8-B45B-170EEAEF427C"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008277",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "SOUTHERN CT WELLNESS AND HEALING LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001817\u0026GUID=CA389DFA-81E1-4DE3-8668-4A900B64A49A"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008281",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "Budr Holding 6 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001834\u0026GUID=41AA0F2E-E045-4424-88D2-938AB4ACE30E"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008283",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "CT BGP, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001796\u0026GUID=9B2E32C9-8A8D-4BED-8E31-6C75FAB96DED"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008284",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "STAMFORD DISPENSARY LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001827\u0026GUID=7A6EACF2-50DE-4C77-A310-EB23C2F78596"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008285",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "CT NIGHTJAR 1",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001767\u0026GUID=E1868AB1-CF41-47E3-B0CB-4009778A2790"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008286",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "NOVA RETAIL CT LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8997956\u0026GUID=4EAB21A9-5737-4D76-B650-A51B01FA1814"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008287",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "CARING NATURE LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8997961\u0026GUID=1B047F6B-71A0-4A94-8CE0-D240C3BE617A"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008288",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "CT Nightjar 2, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001764\u0026GUID=EE9AAB16-AB67-4747-AFE1-1876A33766C7"
     }
   },
   {
@@ -498,7 +1002,7 @@
     "sec_review_status": "Approved",
     "initial_application_type": "DIA Cultivator",
     "how_selected": "DIA Cultivator",
-    "name": "Connecticut Cultivation Solutions, LLC",
+    "name": "CONNECTICUT CULTIVATION SOLUTIONS, LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5874806\u0026GUID=52C47CE5-7290-44B2-8278-9E17EE16D97E"
     }
@@ -537,6 +1041,66 @@
     "name": "Green Meadows Farm CT, LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994487\u0026GUID=D38E71A3-90E8-4819-975B-193A7ED7DE0E"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015696",
+    "application_credential_status": "ACTIVE BY PROVISIONAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "Budr Holding 5 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001242\u0026GUID=558B0951-BD41-4773-955F-3B6BC330FC1B"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015703",
+    "application_credential_status": "ACTIVE BY PROVISIONAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "CTCannaVentures, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001511\u0026GUID=CDB724A7-51DC-47E2-AE09-44C4B97DC80A"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015707",
+    "application_credential_status": "ACTIVE BY PROVISIONAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "ALPHA CT 6 INC.",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001670\u0026GUID=3C06766C-EBA0-42F2-83BF-4502E6C4497D"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015708",
+    "application_credential_status": "ACTIVE BY PROVISIONAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "HP EJV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8997965\u0026GUID=4BCC4A1A-AB26-48CF-B8EE-B2BE873A5C92"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015710",
+    "application_credential_status": "ACTIVE BY PROVISIONAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "FFD GOLD EJV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998099\u0026GUID=94887DE8-923F-4876-A8EE-D86A22F55EE6"
     }
   },
   {
@@ -648,6 +1212,18 @@
     }
   },
   {
+    "application_license_number": "ACRE.0014886",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "General Lottery Selection",
+    "initial_application_type": "General Lottery",
+    "how_selected": "General Lottery",
+    "name": "Hydra East, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998112\u0026GUID=20CD1F83-6F33-466A-A0EA-E32128E00A41"
+    }
+  },
+  {
     "application_license_number": "ACRE.0015652",
     "application_credential_status": "ACTIVE IN RENEWAL",
     "status_reason": "NONE",
@@ -669,6 +1245,114 @@
     "name": "Nutmeg Hamden JV LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058272\u0026GUID=0D8EC09E-3174-4583-9D88-E363FD85F143"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015685",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "CONNECTIBUDS EJV 1 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001636\u0026GUID=CF83534B-5322-40F2-862C-64F5369941A5"
+    }
+  },
+  {
+    "application_license_number": "ACTP.0000494",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "SEC Lottery",
+    "how_selected": "SEC Lottery",
+    "name": "GROW GREEN GIRLS, INC.",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001265\u0026GUID=C5293340-80A3-4AA3-A07B-83AFEAAE2318"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008235",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "EJ VENTURES 2 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998032\u0026GUID=4FEC4015-F06D-4621-8C3A-9FFC85506DC8"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008252",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "AFFINITY HEALTH \u0026 WELLNESS INC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001581\u0026GUID=53AFFFA6-6E04-4799-92DB-A7609C77B810"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008256",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "CURALEAF STAMFORD INC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001690\u0026GUID=E506B620-CD60-41E7-B304-9B4390E148FE"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008264",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "C-3 VENTURES LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001286\u0026GUID=936F4FC6-B5CE-48A9-84A8-A0480A058300"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008270",
+    "application_credential_status": "ACTIVE IN RENEWAL",
+    "status_reason": "NONE",
+    "sec_review_status": "Not Applicable",
+    "initial_application_type": "Conversion - Medical",
+    "how_selected": "Conversion - Medical",
+    "name": "CURALEAF GROTON LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001596\u0026GUID=B282B16F-306D-4E86-BB1C-A92EE72CF05A"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008275",
+    "application_credential_status": "LAPSED",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "CONNECTICUT RETAIL SOLUTIONS II, LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001714\u0026GUID=DB9A95D5-2B88-412C-91C8-FCEFBCD432C5"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0008282",
+    "application_credential_status": "LAPSED",
+    "status_reason": "ONLINE RENEWAL SUBMITTED",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "Nautilus Botanicals EJV1 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001775\u0026GUID=7B498CB3-FAF7-4DA6-BA87-7A3A42E1E820"
     }
   },
   {
@@ -777,6 +1461,18 @@
     "name": "Acreage Connecticut Cultivation JV LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=5874807\u0026GUID=4EA2DD4C-1CBC-42FC-AC7A-EF946D79BDD0"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0000450",
+    "application_credential_status": "PENDING",
+    "status_reason": "EQUITY JOINT VENTURE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "Raybrid LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001399\u0026GUID=BC5533C4-1F63-4B00-8572-4B60F634BEEE"
     }
   },
   {
@@ -1269,6 +1965,18 @@
     "name": "NUTMEG WILLINGTON JV LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6013612\u0026GUID=D4D94E28-FCFD-4CDE-95BC-1A2E2625042A"
+    }
+  },
+  {
+    "application_license_number": "AMHF.0000452",
+    "application_credential_status": "DENIED",
+    "status_reason": "SEC APPLICATION DENIAL",
+    "sec_review_status": "Denied",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "EJ Ventures 3 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001508\u0026GUID=CA3EBC92-8216-411B-87D8-6DA3E9D88B45"
     }
   },
   {
