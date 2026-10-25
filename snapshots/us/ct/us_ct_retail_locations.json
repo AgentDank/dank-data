@@ -464,6 +464,22 @@
     }
   },
   {
+    "type": "Adult-Use Cannabis Only",
+    "business": "FFD GOLD EJV LLC",
+    "dba": "FFD GOLD EJV LLC",
+    "license": "ACRE.0015710",
+    "street": "104 Washington Avenue",
+    "city": "North Haven",
+    "zipcode": "06473",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -72.8564,
+        41.39419
+      ]
+    }
+  },
+  {
     "type": "Hybrid Retailer",
     "business": "CHILLAX LLC",
     "dba": "THE LIV",
