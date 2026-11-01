@@ -174,7 +174,7 @@
     "sec_review_status": "General Lottery Selection",
     "initial_application_type": "General Lottery",
     "how_selected": "General Lottery",
-    "name": "CONNECTICUT CONTRACT MANUFACTURING LLC",
+    "name": "CONNECTICUT CONTRACT MANUFACTURING, INC.",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8994381\u0026GUID=F09956EA-2C9B-4643-AFD1-1E8DA14BAE38"
     }
@@ -420,6 +420,18 @@
     }
   },
   {
+    "application_license_number": "ACRE.0015653",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "Nutmeg Hamden JV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058272\u0026GUID=0D8EC09E-3174-4583-9D88-E363FD85F143"
+    }
+  },
+  {
     "application_license_number": "ACRE.0015654",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -525,6 +537,18 @@
     "name": "C3 EJV I LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001617\u0026GUID=A7EA22D4-AEF1-4E4C-93FC-8DAF3DCAF54A"
+    }
+  },
+  {
+    "application_license_number": "ACRE.0015710",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NONE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "FFD GOLD EJV LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998099\u0026GUID=94887DE8-923F-4876-A8EE-D86A22F55EE6"
     }
   },
   {
@@ -828,6 +852,18 @@
     }
   },
   {
+    "application_license_number": "AMHF.0008282",
+    "application_credential_status": "ACTIVE",
+    "status_reason": "NON-OPERATIONAL / INSPECTION DUE",
+    "sec_review_status": "Approved",
+    "initial_application_type": "Equity Joint Venture",
+    "how_selected": "Equity Joint Venture",
+    "name": "Nautilus Botanicals EJV1 LLC",
+    "documents": {
+      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001775\u0026GUID=7B498CB3-FAF7-4DA6-BA87-7A3A42E1E820"
+    }
+  },
+  {
     "application_license_number": "AMHF.0008283",
     "application_credential_status": "ACTIVE",
     "status_reason": "NONE",
@@ -1092,18 +1128,6 @@
     }
   },
   {
-    "application_license_number": "ACRE.0015710",
-    "application_credential_status": "ACTIVE BY PROVISIONAL",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "Equity Joint Venture",
-    "how_selected": "Equity Joint Venture",
-    "name": "FFD GOLD EJV LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=8998099\u0026GUID=94887DE8-923F-4876-A8EE-D86A22F55EE6"
-    }
-  },
-  {
     "application_license_number": "AMHF.0004030",
     "application_credential_status": "ACTIVE BY PROVISIONAL",
     "status_reason": "NONE",
@@ -1130,7 +1154,7 @@
   {
     "application_license_number": "ACDS.0000602",
     "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "NONE",
+    "status_reason": "ONLINE RENEWAL SUBMITTED",
     "sec_review_status": "Approved",
     "initial_application_type": "SEC Lottery",
     "how_selected": "SEC Lottery",
@@ -1236,18 +1260,6 @@
     }
   },
   {
-    "application_license_number": "ACRE.0015653",
-    "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "NONE",
-    "sec_review_status": "Approved",
-    "initial_application_type": "Equity Joint Venture",
-    "how_selected": "Equity Joint Venture",
-    "name": "Nutmeg Hamden JV LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=6058272\u0026GUID=0D8EC09E-3174-4583-9D88-E363FD85F143"
-    }
-  },
-  {
     "application_license_number": "ACRE.0015685",
     "application_credential_status": "ACTIVE IN RENEWAL",
     "status_reason": "NONE",
@@ -1298,7 +1310,7 @@
   {
     "application_license_number": "AMHF.0008256",
     "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "NONE",
+    "status_reason": "ONLINE RENEWAL SUBMITTED",
     "sec_review_status": "Not Applicable",
     "initial_application_type": "Conversion - Medical",
     "how_selected": "Conversion - Medical",
@@ -1310,7 +1322,7 @@
   {
     "application_license_number": "AMHF.0008264",
     "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "NONE",
+    "status_reason": "ONLINE RENEWAL SUBMITTED",
     "sec_review_status": "Not Applicable",
     "initial_application_type": "Conversion - Medical",
     "how_selected": "Conversion - Medical",
@@ -1322,7 +1334,7 @@
   {
     "application_license_number": "AMHF.0008270",
     "application_credential_status": "ACTIVE IN RENEWAL",
-    "status_reason": "NONE",
+    "status_reason": "ONLINE RENEWAL SUBMITTED",
     "sec_review_status": "Not Applicable",
     "initial_application_type": "Conversion - Medical",
     "how_selected": "Conversion - Medical",
@@ -1341,18 +1353,6 @@
     "name": "CONNECTICUT RETAIL SOLUTIONS II, LLC",
     "documents": {
       "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001714\u0026GUID=DB9A95D5-2B88-412C-91C8-FCEFBCD432C5"
-    }
-  },
-  {
-    "application_license_number": "AMHF.0008282",
-    "application_credential_status": "LAPSED",
-    "status_reason": "ONLINE RENEWAL SUBMITTED",
-    "sec_review_status": "Approved",
-    "initial_application_type": "Equity Joint Venture",
-    "how_selected": "Equity Joint Venture",
-    "name": "Nautilus Botanicals EJV1 LLC",
-    "documents": {
-      "url": "https://elicense.ct.gov/lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=9001775\u0026GUID=7B498CB3-FAF7-4DA6-BA87-7A3A42E1E820"
     }
   },
   {
